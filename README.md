@@ -19,23 +19,25 @@ Here are some ideas to get you started:
 I'm a freelance **cryptography researcher** specializing in **applied cryptography**, especially in the areas of **Zero-Knowledge Proofs (ZK proofs)** and **SNARKs**. My work focuses on building robust, real-world cryptographic solutions and sharing knowledge through open-source projects.
 
 ## 🛠️ Technologies & Tools
-- Circom
+- Circom circuit design
 - Rust
 - Bash
 - Java
 - C
-- Docker
-- snarkjs
-- VSCode
+- Docker 
+- snarkjs (Circom proofs)
+- Web development (JS, CSS, HTML)
 - LaTeX
 
 ## 🚀 Featured Projects
 Some of my best and most impactful projects:
 - **[Shamir Secret Sharing](https://crates.io/crates/shamir_secret_sharing)** (published on crates.io): A Rust implementation of Shamir's Secret Sharing scheme.
+- **Verifiable Secret sharing using circoms
+- **BGW Multi party computation protocol** implementation in rust for fixed circuits, working on the circuit adaptability for arbitrary circuits. 
 - **Circom Proof for Secret Sharing:** ZK circuit for secret sharing using circom and snarkjs.
-- **DIF FFT:** Fast Fourier Transform algorithms for cryptographic applications.
+- **DIF FFT:** Fast Fourier Transform algorithms for cryptographic applications for use in zk snark proof generation.
 - **CP Algorithms:** Cryptographic primitives and algorithms implemented for research and education.
-- **Crytex-ISI Kolkata:** Research and codebase associated with the ISI Kolkata cryptography group.
+- **Crytex-ISI Kolkata:** Cryptology hackathon, focused on modified mathematical puzzles, group theory and historical ciphers, created by me along with associates from ISI Kolkata.
 
 ## 🌐 Links & Profiles
 - **Personal Website:** [pushpadevl.github.io](https://pushpadevl.github.io/)
@@ -46,8 +48,8 @@ Some of my best and most impactful projects:
 - **Hackerrank:** [pushpendra_pal](https://www.hackerrank.com/profile/pushpendra_pal)
 
 ## 🎯 Interests
-- Photography ([website](https://pushpadevl.github.io/))
-- Football
+- Photography
+- Football freestyle
 - Badminton
 - Chess
 - Duolingo (language learning)
