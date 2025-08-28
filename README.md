@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Pushpendra Pal
+# I'm Pushpendra
 
 I'm a freelance **cryptography researcher** specializing in **applied cryptography**, especially in the areas of **Zero-Knowledge Proofs (ZK proofs)** and **SNARKs**. My work focuses on building robust, real-world cryptographic solutions and sharing knowledge through open-source projects.
 
@@ -52,7 +52,7 @@ Some of my best and most impactful projects:
 - Football freestyle
 - Badminton
 - Chess
-- Duolingo (language learning)
+- Duolingo
 
 ---
 
